@@ -1,0 +1,1 @@
+let nota= 7
